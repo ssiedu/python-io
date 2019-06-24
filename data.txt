@@ -1,0 +1,12 @@
+manoj,java,dewas   
+yatin,python,bhopal  
+ajeet,android,indore  
+nitesh,oracle,ujjain  
+amit,php,delhi
+prakash,sql,ratlam
+a,b,c
+
+d,e,f
+
+i,j,k
+
